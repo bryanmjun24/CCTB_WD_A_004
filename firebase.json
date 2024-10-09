@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "FilesAssignment004",
+    "public": "FileAssignment004",
     "ignore": [
       "firebase.json",
       "**/.*",
